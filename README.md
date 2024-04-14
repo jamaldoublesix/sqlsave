@@ -1,5 +1,5 @@
 # sqlsave
-เกี่ยวกับการเซฟข้อมูลแบบทันทีโดยช่วยประ save ความหน่วงได้ในระยะหนึ่ง
+เกี่ยวกับการเซฟข้อมูลแบบทันทีโดยช่วย save ความหน่วงได้ในระยะหนึ่ง
 
     Player_SetSkin(playerid, skinid, bool:save = false) {
       playerData[playerid][pSkin] = skinid;
